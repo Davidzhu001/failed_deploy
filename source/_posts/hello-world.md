@@ -3,7 +3,7 @@ layout: post
 title: Swift－猜字游戏
 categories:
 - swift
-tags: something
+tags: swift
 ---
 
  在练习本章内容中，你不需要对**swift** 有太多的理解. 你也不需要对任何编程语言有任何的基础 `即使有疑问，也要坚持` 编程是长时间的积累，随着时间的推移, 一些问题会随着经验的积累而得到理解。
