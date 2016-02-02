@@ -71,3 +71,4 @@ deploy:
   type: git
   repo: https://github.com/Davidzhu001/davidzhu001.github.io.git
   branch: master
+  message: hexo deploy
